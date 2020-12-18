@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap");
+.Anims {
+  background-attachment: fixed;
+  display: flex;
+}
+
+.imagecontainer {
+  margin-top: 10vh;
+}
+.imagecontainer .skiimage {
+  border-radius: 10%;
+}
+
+.textcontainer {
+  padding: 200px 200px 200px 200px;
+  margin-top: 20vh;
+  border-radius: 20%;
+  background-color: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  border: 1px inset white;
+  text-align: center;
+  align-content: center;
+  align-items: center;
+}
+.textcontainer .head {
+  font-family: "Roboto", sans-serif;
+  color: mintcream;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=Anims.css.map */
